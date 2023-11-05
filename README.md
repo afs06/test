@@ -1,6 +1,4 @@
 # test
 
-##learning 
-how to use Github
-
+## learning how to use GIthub
 It's a test document to practise
